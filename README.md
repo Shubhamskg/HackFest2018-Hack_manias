@@ -21,3 +21,4 @@ We tried several different methods to detect the Gestures whose codes are includ
 Please refer to the image for raspberry pi connections.
 
 Team Hack-Manias has Atul Kumar as an offline collaborator.
+#add
